@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimonGilbert.Blog.GeoLocati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimonGilbert.Blog.UI.Helpers", "SimonGilbert.Blog.UI.Helpers\SimonGilbert.Blog.UI.Helpers.csproj", "{721E5881-C73B-412C-AC46-42E4F24F96B7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{261942FD-12FF-4B9C-A5B4-8BD6D91E77D0}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
