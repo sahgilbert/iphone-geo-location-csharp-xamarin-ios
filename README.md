@@ -4,7 +4,7 @@
 ![Simon Gilbert Dev Blog Landscape Image](https://www.simongilbert.net/content/images/2019/05/simon-gilbert-dev-cto-blog-23.png)
 
 ## Read My Accompanying Blog
-- https://github.com/sahgilbert/iphone-geo-location-csharp-xamarin-ios
+- https://www.simongilbert.net/iphone-geo-location-csharp-xamarin-ios/
 
 ## Read My Other Blogs
 - https://www.simongilbert.net
